@@ -1,0 +1,7 @@
+pe\com\express\modelo\Persona.class
+pe\com\express\SysDataAccess.class
+pe\com\express\modelo\Usuario.class
+pe\com\express\modelo\Producto.class
+pe\com\express\dao\ProductoDaoImpl.class
+pe\com\express\HibernateConfiguration.class
+pe\com\express\dao\ProductoDaoI.class
